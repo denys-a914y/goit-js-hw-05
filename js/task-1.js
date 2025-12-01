@@ -1,5 +1,5 @@
 
-  const getUsersNames  = users => users.map(user => user.names)
+  const getUsersNames  = users => users.map(user => user.name)
 
 
 
